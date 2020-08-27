@@ -1,1 +1,34 @@
-{}
+[
+  {
+    "title": "hn",
+    "url": "https://news.ycombinator.com/rss",
+    "method": "getRSS",
+    "after": "getDescription",
+    "after_text": "comments"
+  },
+  {
+    "title": "rtd",
+    "url": "https://richmond.com/search/?f=rss&t=article&c=news&l=20&s=start_time&sd=desc",
+    "method": "getRSS"
+  },
+  {
+    "title": "bbc news",
+    "url": "https://feeds.bbci.co.uk/news/rss.xml",
+    "method": "getRSS"
+  },
+  {
+    "title": "r/rva",
+    "url": "https://reddit.com/r/rva.rss",
+    "method": "getRSS"
+  },
+  {
+    "title": "wirecutter",
+    "url": "https://www.nytimes.com/wirecutter/feed/",
+    "method": "getRSS"
+  },
+  {
+    "title": "bsf",
+    "url": "https://thebootstrappedfounder.com/feed/",
+    "method": "getRSS"
+  }
+]
