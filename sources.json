@@ -7,8 +7,8 @@
     "after_text": "comments"
   },
   {
-    "title": "rtd",
-    "url": "https://richmond.com/search/?f=rss&t=article&c=news&l=20&s=start_time&sd=desc",
+    "title": "chpn",
+    "url": "https://chpn.net/feed/",
     "method": "getRSS"
   },
   {
