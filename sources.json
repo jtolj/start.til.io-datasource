@@ -27,8 +27,24 @@
     "method": "getRSS"
   },
   {
-    "title": "bsf",
-    "url": "https://thebootstrappedfounder.com/feed/",
+    "title": "baremetrics",
+    "url": "https://baremetrics.com/category/blog/feed",
+    "method": "getRSS"
+  },
+  {
+    "title": "calebp",
+    "url": "https://calebporzio.com/feed",
+    "method": "getRSS"
+    
+  },
+  {
+    "title": "/r/watmm",
+    "url": "https://reddit.com/r/WeAreTheMusicMakers.rss",
+    "method": "getRSS"
+  },
+  {
+    "title": "/r/upliftingnews",
+    "url": "https://www.reddit.com/r/UpliftingNews.rss",
     "method": "getRSS"
   }
 ]
