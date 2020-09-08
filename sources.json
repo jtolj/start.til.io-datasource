@@ -32,8 +32,8 @@
     "method": "getRSS"
   },
   {
-    "title": "freek.dev",
-    "url": "https://freek.dev/feed/originals",
+    "title": "laravel news",
+    "url": "https://feed.laravel-news.com",
     "method": "getRSS"
     
   },
