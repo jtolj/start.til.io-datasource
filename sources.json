@@ -22,8 +22,8 @@
     "method": "getRSS"
   },
   {
-    "title": "wirecutter",
-    "url": "https://www.nytimes.com/wirecutter/feed/",
+    "title": "idlewords",
+    "url": "https://idlewords.com/index.xml",
     "method": "getRSS"
   },
   {
