@@ -2,9 +2,7 @@
   {
     "title": "hn",
     "url": "https://hnrss.org/frontpage",
-    "method": "getRSS",
-    "after": "getDescription",
-    "after_text": "comments"
+    "method": "getRSS"
   },
   {
     "title": "chpn",
