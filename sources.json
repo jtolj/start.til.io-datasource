@@ -43,6 +43,11 @@
     "method": "getRSS"
   },
   {
+    "title": "jacquesmattheij",
+    "url": "https://jacquesmattheij.com/rss.xml",
+    "method": "getRSS"
+  },
+  {
     "title": "/r/upliftingnews",
     "url": "https://www.reddit.com/r/UpliftingNews.rss",
     "method": "getRSS"
