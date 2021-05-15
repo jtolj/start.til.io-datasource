@@ -7,8 +7,8 @@
     "method": "getRSS"
   },
   {
-    "title": "chpn",
-    "url": "https://chpn.net/feed/",
+    "title": "rtd",
+    "url": "https://richmond.com/search/?f=rss&t=article&l=50",
     "method": "getRSS"
   },
   {
