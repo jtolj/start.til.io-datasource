@@ -7,6 +7,16 @@
     "method": "getRSS"
   },
   {
+    "title": "tildes",
+    "url": "https://tildes.net/topics.rss",
+    "method": "getRSS"
+  },
+  {
+    "title": "r/rva",
+    "url": "https://reddit.com/r/rva.rss",
+    "method": "getRSS"
+  },
+  {
     "title": "rtd",
     "url": "https://richmond.com/search/?f=rss&t=article&l=50",
     "method": "getRSS"
@@ -14,11 +24,6 @@
   {
     "title": "bbc news",
     "url": "https://feeds.bbci.co.uk/news/rss.xml",
-    "method": "getRSS"
-  },
-  {
-    "title": "r/rva",
-    "url": "https://reddit.com/r/rva.rss",
     "method": "getRSS"
   },
   {
@@ -40,11 +45,6 @@
   {
     "title": "/r/watmm",
     "url": "https://reddit.com/r/WeAreTheMusicMakers.rss",
-    "method": "getRSS"
-  },
-  {
-    "title": "jacquesmattheij",
-    "url": "https://jacquesmattheij.com/rss.xml",
     "method": "getRSS"
   },
   {
