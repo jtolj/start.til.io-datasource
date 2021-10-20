@@ -7,8 +7,8 @@
     "method": "getRSS"
   },
   {
-    "title": "tildes",
-    "url": "https://tildes.net/topics.rss",
+    "title": "lobste.rs",
+    "url": "https://lobste.rs/rss",
     "method": "getRSS"
   },
   {
