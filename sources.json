@@ -10,7 +10,7 @@
     "title": "lobste.rs",
     "url": "https://lobste.rs/rss",
     "after_text": "comments",
-    "after_url": "comments",
+    "after": "comments",
     "method": "getRSS"
   },
   {
