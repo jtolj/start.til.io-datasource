@@ -34,6 +34,11 @@
     "method": "getRSS"
   },
   {
+    "title": "jvns.ca",
+    "url": "https://jvns.ca/atom.xml",
+    "method": "getRSS"
+  },
+  {
     "title": "rbtb",
     "url": "https://rachelbythebay.com/w/atom.xml",
     "method": "getRSS"
