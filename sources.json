@@ -14,6 +14,13 @@
     "method": "getRSS"
   },
   {
+    "title": "tildes",
+    "url": "https://tildes.net/topics.rss",
+    "after_text": "comments",
+    "after": "getCommentLink",
+    "method": "getRSS"
+  },
+  {
     "title": "r/rva",
     "url": "https://reddit.com/r/rva.rss",
     "method": "getRSS"
