@@ -1,5 +1,10 @@
 [
   {
+    "title": "1000 albums",
+    "url": "https://1000albumsgenerator.com",
+    "method": "getSongsJson"
+  },
+  {
     "title": "hn",
     "url": "https://hnrss.org/frontpage",
     "after": "getCommentLink",
