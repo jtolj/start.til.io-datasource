@@ -1,8 +1,8 @@
 [
   {
-    "title": "1000 albums",
-    "url": "https://1000albumsgenerator.com",
-    "method": "getSongsJson"
+    "title": "1001 albums",
+    "url": "https://1001albumsgenerator.com/",
+    "method": "getAlbumsJson"
   },
   {
     "title": "hn",
