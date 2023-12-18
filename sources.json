@@ -11,6 +11,11 @@
     "after_text": "comments",
     "method": "getRSS"
   },
+   {
+    "title": "r/rva",
+    "url": "https://r.til.io/r/rva",
+    "method": "scrapeLibreddit"
+  },
   {
     "title": "lobste.rs",
     "url": "https://lobste.rs/rss",
