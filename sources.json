@@ -26,11 +26,6 @@
     "method": "getRSS"
   },
   {
-    "title": "r/rva",
-    "url": "https://reddit.com/r/rva.rss",
-    "method": "getRSS"
-  },
-  {
     "title": "rtd",
     "url": "https://richmond.com/search/?f=rss&t=article&l=50",
     "method": "getRSS"
@@ -60,15 +55,5 @@
     "url": "https://feed.laravel-news.com",
     "method": "getRSS"
     
-  },
-  {
-    "title": "/r/watmm",
-    "url": "https://reddit.com/r/WeAreTheMusicMakers.rss",
-    "method": "getRSS"
-  },
-  {
-    "title": "/r/upliftingnews",
-    "url": "https://www.reddit.com/r/UpliftingNews.rss",
-    "method": "getRSS"
   }
 ]
