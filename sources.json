@@ -11,7 +11,7 @@
     "after_text": "comments",
     "method": "getRSS"
   },
-   {
+  {
     "title": "r/rva",
     "url": "https://r.til.io/r/rva",
     "method": "scrapeLibreddit"
@@ -54,6 +54,21 @@
     "title": "rbtb",
     "url": "https://rachelbythebay.com/w/atom.xml",
     "method": "getRSS"
+  },
+  {
+    "title": "r/wearethemusicmakers",
+    "url": "https://r.til.io/r/wearethemusicmakers",
+    "method": "scrapeLibreddit"
+  },
+  {
+    "title": "r/upliftingnews",
+    "url": "https://r.til.io/r/upliftingnews",
+    "method": "scrapeLibreddit"
+  },
+   {
+    "title": "r/rva",
+    "url": "https://r.til.io/r/rva",
+    "method": "scrapeLibreddit"
   },
   {
     "title": "laravel news",
