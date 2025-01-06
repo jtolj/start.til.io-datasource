@@ -36,6 +36,11 @@
     "method": "getRSS"
   },
   {
+    "title": "stephango.com",
+    "url": "https://stephango.com/feed.xml",
+    "method": "getRSS"
+  },
+  {
     "title": "maggieappleton.com",
     "url": "https://maggieappleton.com/rss.xml",
     "method": "getRSS"
